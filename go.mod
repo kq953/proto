@@ -1,3 +1,3 @@
-module github.com/kq953/proto
+module proto
 
 go 1.18
